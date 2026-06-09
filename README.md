@@ -154,17 +154,6 @@ ISC License - Feel free to use this project for personal and educational purpose
 Abhishek Kesh
 GitHub: @abhishekkesh
 
-🤝 Contributing
-Contributions are welcome! Feel free to:
-
-Fork the repository
-Create a feature branch (git checkout -b feature/amazing-feature)
-Commit changes (git commit -m 'Add amazing feature')
-Push to branch (git push origin feature/amazing-feature)
-Open a Pull Request
-📞 Support
-For issues, feature requests, or questions, please open an issue on the GitHub repository.
-
 🎓 Learning Resources
 Google GenAI Documentation
 React Documentation
